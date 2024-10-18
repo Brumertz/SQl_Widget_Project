@@ -8,3 +8,13 @@ C:\Users\30085204\source\repos\Database_Int_widgets\Database_Int_widgets\obj\Deb
 C:\Users\30085204\source\repos\Database_Int_widgets\Database_Int_widgets\obj\Debug\predeploy.sql
 C:\Users\30085204\source\repos\Database_Int_widgets\Database_Int_widgets\obj\Debug\Database_Int_widgets.dll
 C:\Users\30085204\source\repos\Database_Int_widgets\Database_Int_widgets\obj\Debug\Database_Int_widgets.pdb
+C:\Users\30085204\source\repos\Project Sql\SQl_Widget_Project\Database_Int_widgets\Database_Int_widgets\bin\Debug\Database_Int_widgets.dacpac
+C:\Users\30085204\source\repos\Project Sql\SQl_Widget_Project\Database_Int_widgets\Database_Int_widgets\bin\Debug\Database_Int_widgets.dll
+C:\Users\30085204\source\repos\Project Sql\SQl_Widget_Project\Database_Int_widgets\Database_Int_widgets\bin\Debug\Database_Int_widgets.pdb
+C:\Users\30085204\source\repos\Project Sql\SQl_Widget_Project\Database_Int_widgets\Database_Int_widgets\obj\Debug\Database_Int_widgets.sqlproj.AssemblyReference.cache
+C:\Users\30085204\source\repos\Project Sql\SQl_Widget_Project\Database_Int_widgets\Database_Int_widgets\obj\Debug\Database_Int_widgets.dll
+C:\Users\30085204\source\repos\Project Sql\SQl_Widget_Project\Database_Int_widgets\Database_Int_widgets\obj\Debug\Database_Int_widgets.pdb
+C:\Users\30085204\source\repos\Project Sql\SQl_Widget_Project\Database_Int_widgets\Database_Int_widgets\obj\Debug\Model.xml
+C:\Users\30085204\source\repos\Project Sql\SQl_Widget_Project\Database_Int_widgets\Database_Int_widgets\obj\Debug\refactor.xml
+C:\Users\30085204\source\repos\Project Sql\SQl_Widget_Project\Database_Int_widgets\Database_Int_widgets\obj\Debug\postdeploy.sql
+C:\Users\30085204\source\repos\Project Sql\SQl_Widget_Project\Database_Int_widgets\Database_Int_widgets\obj\Debug\predeploy.sql
